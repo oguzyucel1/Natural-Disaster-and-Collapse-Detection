@@ -1,0 +1,10 @@
+0 Avalanche
+1 Drought
+2 Earthquake
+3 Flood
+4 Hurricane_Typhoon
+5 Landslide
+6 Tornado
+7 Tsunami
+8 Volcanic_Eruption
+9 Wildfires
